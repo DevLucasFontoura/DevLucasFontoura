@@ -1,16 +1,20 @@
-### Hi there 👋
+### Olá, me chamo Lucas Fontoura 👋🏻😊
 
-<!--
-**DevLucasFontoura/DevLucasFontoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estou cursando Análise e Desenvolvimento de Sistemas pelo UniCEUB.
 
-Here are some ideas to get you started:
+🏢 Trabalho atualmente no Ministério da Infraestrutura -> SENATRAN.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨🏼‍💻 Estou desenvolvendo automações e trabalhando com dados na linguagem Python.
+
+
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/f0nt0ur4/)
+[![LinkendIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-fontoura-706a45212/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Righi_Fontoura)
+
+
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLucasFontoura&show_icons=true&theme=radical)
+
+
+## Tecnologias que uso no meu dia:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucasFontoura&layout=)](https://github.com/DevLucasFontoura/github-readme-stats)
