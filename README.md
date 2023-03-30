@@ -15,7 +15,4 @@
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLucasFontoura&show_icons=true&theme=radical)
 
-
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucasFontoura&layout=compact)](https://github.com/DevLucasFontoura/github-readme-stats)
-
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucasFontoura)](https://github.com/DevLucasFontoura/github-readme-stats)
