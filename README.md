@@ -2,7 +2,7 @@
 
 🎓 Estou cursando Análise e Desenvolvimento de Sistemas pelo UniCEUB.
 
-🏢 Trabalho atualmente no Ministério da Infraestrutura - SENATRAN.
+🏢 Trabalho atualmente no Ministério dos Transportes - SENATRAN.
 
 👨🏼‍💻 Estou desenvolvendo automações e trabalhando com dados na linguagem Python.
 
