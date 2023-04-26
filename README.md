@@ -7,12 +7,6 @@
 👨🏼‍💻 Estou desenvolvendo automações e trabalhando com dados na linguagem Python.
 
 
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/f0nt0ur4/)
-[![LinkendIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-fontoura-706a45212/)
-
-
-
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLucasFontoura&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucasFontoura&langs_count=8)](https://github.com/DevLucasFontoura/github-readme-stats)
