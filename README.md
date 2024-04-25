@@ -4,7 +4,7 @@
 
 🏢 Trabalho atualmente no Ministério dos Transportes - SENATRAN.
 
-🛠  Dart | Flutter | Python | Firebase | Git | GitHub
+🛠  Python | Firebase | Git | GitHub
 
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLucasFontoura&show_icons=true&theme=radical)
