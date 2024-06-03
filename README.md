@@ -2,7 +2,7 @@
 
 🎓 Estou cursando Análise e Desenvolvimento de Sistemas pelo UniCEUB.
 
-🏢 Trabalho atualmente no Ministério dos Transportes - SENATRAN.
+🏢 Trabalho atualmente no Ministério do Desenvolvimento Social - SISEC.
 
 🛠  Python | Firebase | Git | GitHub
 
