@@ -1,6 +1,6 @@
 ### Olá, me chamo Lucas Fontoura 👋🏻😊
 
-🎓 Estou cursando Análise e Desenvolvimento de Sistemas pelo UniCEUB.
+🎓 Estou finalizando o curso de Análise e Desenvolvimento de Sistemas pelo UniCEUB.
 
 🏢 Trabalho atualmente no Ministério do Desenvolvimento Social - SISEC.
 
