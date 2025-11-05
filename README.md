@@ -1,13 +1,12 @@
-### Olá, me chamo Lucas Fontoura 👋🏻😊
+###Hello, I'm Lucas Fontoura 👋🏻😊
 
-🎓 Formado em Análise e Desenvolvimento de Sistemas pelo UniCEUB.
+🎓 Graduated in Systems Analysis and Development from UniCEUB.
 
-🎓 Fazendo Pós Graduação em DEVOPS & CONTINUOUS SOFTWARE ENGINEERIN pela Puc De Minas.
+🎓 Currently pursuing a Postgraduate Degree in DevOps & Continuous Software Engineering at PUC Minas.
 
-🏢 Trabalho atualmente no Ministério do Desenvolvimento Social - SISEC.
+🏢 Currently working at the Ministry of Social Development (SISEC)
 
-🛠  Python | Firebase | Git | GitHub | React | Redux
-
+🛠️ Focused on: Frontend & Backend development using React, TypeScript, and Firebase (Authentication, Firestore and Hosting).
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLucasFontoura&show_icons=true&theme=radical)
 
